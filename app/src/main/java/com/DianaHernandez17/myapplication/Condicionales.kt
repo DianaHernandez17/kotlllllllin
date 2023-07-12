@@ -36,7 +36,7 @@ fun main() {
     if(number in 1..20){
         println("El número esta en el rango")
     }else{
-        println("El número esta fuera del rango")
+        println("El número esta fuera del rango
 
     }
 
